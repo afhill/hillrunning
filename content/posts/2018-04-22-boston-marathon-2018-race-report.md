@@ -16,9 +16,9 @@ socialImage: "/media/2018/04/BeforetheRace.png "
 
 Hard to believe it's been nearly a decade since I last ran the Boston marathon. But last year when Meredith mentioned that the race date fell on her 40th birthday, it seemed as good a reason as ever to make the pilgrimmage back to this marathoner's mecca.
 
-I qualified at the [Jack and Jill race](/jack-and-jill-downhill-marathon-2017-race-report/) last July, with a nice big buffer for my age group (the joy of aging up?!?).
+I qualified at the [Jack and Jill race](/2017-08-02-jack-and-jill-downhill-marathon-2017-race-report/) last July, with a nice big buffer for my age group (the joy of aging up?!?).
 
-Training for Boston was &#8230; negligible. The [Tahoe Triple](/tahoe-triple-race-report-bucket-list-item-complete/) took a lot out of me last October, and then my training never really got back on track as Sara and I made plans and moved up to Canada in early 2018. I've struggled with a lot of knee pain, specifically, and there was a TON of snow up here when we got here! Sure, I managed a nice [26.2 long run](/mesa-phx-marathon-2018-race-report/) with my Mom in AZ in February, but apart from that I don't think I'd run over 12 miles since October!
+Training for Boston was &#8230; negligible. The [Tahoe Triple](/2017-10-20-tahoe-triple-race-report-bucket-list-item-complete/) took a lot out of me last October, and then my training never really got back on track as Sara and I made plans and moved up to Canada in early 2018. I've struggled with a lot of knee pain, specifically, and there was a TON of snow up here when we got here! Sure, I managed a nice [26.2 long run](/2018-02-28-mesa-phx-marathon-2018-race-report/) with my Mom in AZ in February, but apart from that I don't think I'd run over 12 miles since October!
 
 Thankfully, a few weeks ago I started to go to a chiropractor here and it has seriously changed my life!  My posture is better and he has even done some work to correct my weird inward-facing left foot, as well as work on the popliteus muscle behind my knees. Knee pain is gone!
 
@@ -34,7 +34,7 @@ This sentiment was even more appreciated as the weather forecast came up: 20-30m
 
 Still, it was Boston, which is always special! Sara and I flew down Friday (there are direct flights from Ottawa! Amazing!), and went for a nice run through Cambridge on Saturday. I hadn't realized we couldn't check gear backs in Hopkinton, so we bought some throwaway clothes at Goodwill. I bought a ridiculous pajama nightgown thing I figured would keep me warm before we started running. We enjoyed a relaxing day before meeting Meredith, Dave and Anderson at the expo. We then all grabbed dinner together. It was fun to catch up (the last time we saw each other was after the Pikes Peak Ascent a few years ago).
 
-![Yes, I ran a marathon in this!](/img/2018/04/Photo_-_Google_Photos.png)
+![Yes, I ran a marathon in this!](/media/2018/04/Photo_-_Google_Photos.png)
   
 
 One thing I'd seen at the Expo were magnets for holding your bib in place without pins, and I decided that would be good for the race so I didn't make holes in my [AMAZING ULTIMATE DIRECTION ULTRA JACKET](https://ultimatedirection.com/womens-ultra-jacket-v2/) . I have worn this thing almost every run since we moved to Canada, since it's wind- and water-proof. So Sunday morning we ran back to the expo (1.5 miles) so I could pick it up, and I also ended up getting a [RooSport pouch](http://theroosport.com/) to carry my phone. I used to have a flipbelt, but hate how it always rode up.  We bought a box of Honey Stinger waffles too before remembering we had to run back home carrying all this stuff. 🙂
@@ -43,7 +43,7 @@ The last big trip was to the Nike store. I've read a ton about the shoes they de
 
 Ok, race day. The bus system is SO much better than it used to be: Meredith and I were in the third wave, which meant we were to take the bus to Hopkinton between 8-8:45. We'd leave the Athletes' village at 10:05 for a 10:50 start, so there weren't hours and hours to wait in Hopkinton. Good thing because there was torrential rain, and you couldn't check a gear back from Hopkinton. Meredith had been prepared and brought throw-away shoes, socks, pants and a sweatshirt. I definitely didn't&#8230;
 
-![](/img/2018/04/BeforetheRace.png)
+![](/media/2018/04/BeforetheRace.png)
 
 
 Our airbnb was about 1.5 miles from the bus loading zone, so Sara and I jogged there. I had on my injinji compression toesocks, hokas, capris, a long-sleeved shirt, my fleece nightgown, a buff and my UD jacket. I'd bought some gardening gloves at 7-11 the day before but they were soaked by the time we met the Gordons to get on the bus!

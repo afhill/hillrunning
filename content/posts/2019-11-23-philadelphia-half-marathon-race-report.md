@@ -1,13 +1,14 @@
 ---
-title: Philadelphia Half Marathon 2019 Race Report 
+template: "post"
+title: "Philadelphia Half Marathon 2019"
 date: 2019-11-23
-author: Andrea Hill
-  
-categories:
-  - Race-Reports
-
-header:
-  teaser: /assets/images/2019-11-23-phillymedal.png
+draft: false
+category: "Half marathon"
+tags:
+  - "Race reports"
+  - "Half marathon"
+description: "Running with my Mom to her first sub-5 hour marathon"
+socialImage: "/media/2019/11/2019-11-23-phillymedal.png"
 ---
 
 After the Montreal marathon-turned-half, I really haven't had a lot of interest in training for (or running) another marathon. But when we decided to take a quick trip to Philly, the half distance piqued my interest. 
@@ -79,7 +80,7 @@ And I did! Looking back at my Strava race analysis, I was very consistent throug
 
 
 
-![Race analysis from Strava](/gothedistance/assets/images/2019-11-23-philly-race.png)
+![Race analysis from Strava](/media/2019/11/2019-11-23-philly-race.png)
 
 5K: 24:12<br />
 10K: 24:11<br />
@@ -90,7 +91,7 @@ And I did! Looking back at my Strava race analysis, I was very consistent throug
 The half marathon was the day before the marathon, so there was still a lot going on at the Race Expo. We managed to clean ourselves up and head back to the Expo in time to meet the inspiring DES LINDEN!! 
 
 
-![Three smiling women standing together, including this blog posts' author, her wife, and the winner of the 2018 Boston Marathon, Desiree Linden](/gothedistance/assets/images/2019-11-23-deslinden.png)
+![Three smiling women standing together, including this blog posts' author, her wife, and the winner of the 2018 Boston Marathon, Desiree Linden](/media/2019/11/2019-11-23-deslinden.png)
 
 
 Next up: we're headed off to Atlanta at the end of Feb to watch the USA Womens Olympic Marathon trials, and then run the half the next day. We're going to use the Hal Higdon plan again, but this time follow the entire 12 weeks. Looking forward to it! 
