@@ -1,18 +1,18 @@
 'use strict';
 
 module.exports = {
-  url: 'https://lumen.netlify.com',
+  url: 'https://hillrunning.netlify.com',
   pathPrefix: '/',
-  title: 'Blog by John Doe',
-  subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+  title: 'Hill Running',
+  subtitle: 'Race reports by Andrea Hill',
   copyright: '© All rights reserved.',
   disqusShortname: '',
-  postsPerPage: 4,
+  postsPerPage: 6,
   googleAnalyticsId: 'UA-73379983-2',
   useKatex: false,
   menu: [
     {
-      label: 'Articles',
+      label: 'Race Reports',
       path: '/'
     },
     {
@@ -25,25 +25,13 @@ module.exports = {
     }
   ],
   author: {
-    name: 'John Doe',
+    name: 'Andrea Hill',
     photo: '/photo.jpg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    bio: 'A plant-powered runner living in Ottawa, Canada. Still chasing the 50 States',
     contacts: {
-      email: '',
-      facebook: '#',
-      telegram: '#',
-      twitter: '#',
-      github: '#',
-      rss: '',
-      vkontakte: '',
-      linkedin: '#',
-      instagram: '#',
-      line: '',
-      gitlab: '',
-      weibo: '',
-      codepen: '',
-      youtube: '',
-      soundcloud: '',
+      email: 'andrea.hill@gmail.com',
+      twitter: 'http://twitter.com/afhill',
+      instagram: 'https://instagram.com/afhill262',
     }
   }
 };
