@@ -37,7 +37,7 @@ We had booked an airbnb at the Marriott Grand Residence Resort, which was pretty
 
 ## Friday – Lakeside Marathon
 
-<img class="alignleft size-medium wp-image-5219" src="http://www.afhill.com/gothedistance/wp-content/uploads/2017/10/triple-one-225x300.jpg" alt="" width="225" height="300" srcset="http://www.afhill.com/gothedistance/wp-content/uploads/2017/10/triple-one-225x300.jpg 225w, http://www.afhill.com/gothedistance/wp-content/uploads/2017/10/triple-one-768x1024.jpg 768w, http://www.afhill.com/gothedistance/wp-content/uploads/2017/10/triple-one.jpg 1054w" sizes="(max-width: 225px) 100vw, 225px" /> 
+![](/media/2017/10/triple-one.jpg) 
 
 It was pretty dark when I left the hotel at 6:15 Friday morning, but dawn broke enough by the time we headed off at 6:40 that I never used my knucklelights.
 
@@ -45,7 +45,7 @@ Friday was a small race: 45 Triplers and 14 other marathoners were on the starti
 
 &#8230; can you guess what happened?
 
-<img class="alignright size-medium wp-image-5220" src="http://www.afhill.com/gothedistance/wp-content/uploads/2017/10/Bill-51-200x300.jpg" alt="" width="200" height="300" srcset="http://www.afhill.com/gothedistance/wp-content/uploads/2017/10/Bill-51-200x300.jpg 200w, http://www.afhill.com/gothedistance/wp-content/uploads/2017/10/Bill-51-768x1152.jpg 768w, http://www.afhill.com/gothedistance/wp-content/uploads/2017/10/Bill-51-683x1024.jpg 683w" sizes="(max-width: 200px) 100vw, 200px" /> 
+![](/media/2017/10/Bill-51.jpg) 
 
 Being from Colorado, I don't think the altitude and hills (and cold!) affected me as much as it did other runners. Sara had said she'd be at the finish before the 4 hr mark, but I told her that definitely wasn't necessary! _**This was a marathon (before two more marathons), not a sprint! **_I hoped to run between 9:30 and 10:00mm, but I wasn't going to actually try to stay on any sort of pace.
 
@@ -67,7 +67,7 @@ After about 10 minutes, the Race Director announced that they would stop the tra
 
 So I'll be honest. By the time we started again (I waited about 10 minutes), my legs had stiffened up, and I wasn't terribly motivated to take off like all the fresh half-marathoners around me. I'd "won" the race (even if it was only 19 miles, not 26.2). And I had two more marathons to go.
 
-[<img class="alignleft wp-image-5222 size-medium" src="http://www.afhill.com/gothedistance/wp-content/uploads/2017/10/Bill-334-200x300.jpg" alt="" width="200" height="300" srcset="http://www.afhill.com/gothedistance/wp-content/uploads/2017/10/Bill-334-200x300.jpg 200w, http://www.afhill.com/gothedistance/wp-content/uploads/2017/10/Bill-334-768x1152.jpg 768w, http://www.afhill.com/gothedistance/wp-content/uploads/2017/10/Bill-334-683x1024.jpg 683w" sizes="(max-width: 200px) 100vw, 200px" />](http://www.afhill.com/gothedistance/wp-content/uploads/2017/10/Bill-334.jpg)
+![](/media/2017/10/Bill-334.jpg)
 
 So, I took it a lot easier over the last hour or so. I no longer felt ANY pressure. My time didn't matter, my place didn't matter. Crossing the line did.
 
@@ -79,11 +79,11 @@ I loitered around the awards table until I finally just asked if the Womens' Tro
 
 Sara met me with compression tights and warm clothes, and we headed back to South Lake Tahoe to rest and recover. I was a bit worried I'd gone out too aggressively this first day and would pay for it.. we'd have to see!
 
-[<img class="aligncenter wp-image-5223 size-medium" src="http://www.afhill.com/gothedistance/wp-content/uploads/2017/10/received_10155754363445912-300x225.jpeg" alt="" width="300" height="225" srcset="http://www.afhill.com/gothedistance/wp-content/uploads/2017/10/received_10155754363445912-300x225.jpeg 300w, http://www.afhill.com/gothedistance/wp-content/uploads/2017/10/received_10155754363445912-768x576.jpeg 768w, http://www.afhill.com/gothedistance/wp-content/uploads/2017/10/received_10155754363445912-1024x768.jpeg 1024w" sizes="(max-width: 300px) 100vw, 300px" />](http://www.afhill.com/gothedistance/wp-content/uploads/2017/10/received_10155754363445912.jpeg)
+![](/media/2017/10/received_10155754363445912.jpeg)
 
 &nbsp;
 
-[<img class="alignright size-large wp-image-5221" src="http://www.afhill.com/gothedistance/wp-content/uploads/2017/10/Lakeside_Marathon_-_1st_leg_of_the_Tahoe_Triple__included_a_10_min_stop_for_traffic____Run___Strava-1024x537.png" alt="" width="620" height="325" srcset="http://www.afhill.com/gothedistance/wp-content/uploads/2017/10/Lakeside_Marathon_-_1st_leg_of_the_Tahoe_Triple__included_a_10_min_stop_for_traffic____Run___Strava-1024x537.png 1024w, http://www.afhill.com/gothedistance/wp-content/uploads/2017/10/Lakeside_Marathon_-_1st_leg_of_the_Tahoe_Triple__included_a_10_min_stop_for_traffic____Run___Strava-300x157.png 300w, http://www.afhill.com/gothedistance/wp-content/uploads/2017/10/Lakeside_Marathon_-_1st_leg_of_the_Tahoe_Triple__included_a_10_min_stop_for_traffic____Run___Strava-768x402.png 768w" sizes="(max-width: 620px) 100vw, 620px" />](http://www.afhill.com/gothedistance/wp-content/uploads/2017/10/Lakeside_Marathon_-_1st_leg_of_the_Tahoe_Triple__included_a_10_min_stop_for_traffic____Run___Strava.png)
+![](/media/2017/10/Lakeside_Marathon_-_1st_leg_of_the_Tahoe_Triple__included_a_10_min_stop_for_traffic____Run___Strava.png)
 
 I
 
@@ -91,7 +91,7 @@ I
 
 Friday night we received an email from the race director. The Nevada Department of Transportation hadn't been too happy with our race through the construction zone. The Saturday race was actually supposed to go through the same zone again, but now we were "not to run in Nevada". Our course was changed basically mimic the half-marathon course, with a 5-mile out-and-back section at the beginning and a 1.6 mile out-and-back section at the end. Oof!
 
-[<img class="aligncenter size-large wp-image-5226" src="http://www.afhill.com/gothedistance/wp-content/uploads/2017/10/IMG_20171014_081247-1024x768.jpg" alt="" width="620" height="465" srcset="http://www.afhill.com/gothedistance/wp-content/uploads/2017/10/IMG_20171014_081247-1024x768.jpg 1024w, http://www.afhill.com/gothedistance/wp-content/uploads/2017/10/IMG_20171014_081247-300x225.jpg 300w, http://www.afhill.com/gothedistance/wp-content/uploads/2017/10/IMG_20171014_081247-768x576.jpg 768w" sizes="(max-width: 620px) 100vw, 620px" />](http://www.afhill.com/gothedistance/wp-content/uploads/2017/10/IMG_20171014_081247.jpg)
+![](/media/2017/10/IMG_20171014_081247.jpg)
 
 The race still started at 6:40, but our starting line was all the way at the other side of the lake, so we piled onto a bus at 5:15am. I sat with Julia and Christine, two fellow Triplers. It was fun to swap stories and get to know others on this somewhat crazy adventure.
 
@@ -99,7 +99,7 @@ I had brought three outfits for the three days, but ended up back in the same li
 
 I won't lie, this was a rough day. They had said that this was the easiest/fastest/flattest day of the three, but I was struggling. I text Sara around mile 10 to say that I was trashed. I couldn't even listen to my audiobook because I was having trouble concentrating. Ugh!
 
-[<img class="aligncenter size-large wp-image-5227" src="http://www.afhill.com/gothedistance/wp-content/uploads/2017/10/IMG_20171014_100527-1024x768.jpg" alt="" width="620" height="465" srcset="http://www.afhill.com/gothedistance/wp-content/uploads/2017/10/IMG_20171014_100527-1024x768.jpg 1024w, http://www.afhill.com/gothedistance/wp-content/uploads/2017/10/IMG_20171014_100527-300x225.jpg 300w, http://www.afhill.com/gothedistance/wp-content/uploads/2017/10/IMG_20171014_100527-768x576.jpg 768w" sizes="(max-width: 620px) 100vw, 620px" />](http://www.afhill.com/gothedistance/wp-content/uploads/2017/10/IMG_20171014_100527.jpg)
+![](/media/2017/10/IMG_20171014_100527.jpg)
 
 Oddly enough, it was the tops of my feet that were hurting. Kinda weird.
 
@@ -121,7 +121,7 @@ My stomach hadn't felt great on Friday after the race, and I hadn't enjoyed my d
 
 One more day to go!
 
-[<img class="aligncenter size-large wp-image-5224" src="http://www.afhill.com/gothedistance/wp-content/uploads/2017/10/Cal-Neva_Marathon__leg_2_of_the_Tahoe_Triple____Run___Strava_and_Photo_-_Google_Photos-1024x539.png" alt="" width="620" height="326" srcset="http://www.afhill.com/gothedistance/wp-content/uploads/2017/10/Cal-Neva_Marathon__leg_2_of_the_Tahoe_Triple____Run___Strava_and_Photo_-_Google_Photos-1024x539.png 1024w, http://www.afhill.com/gothedistance/wp-content/uploads/2017/10/Cal-Neva_Marathon__leg_2_of_the_Tahoe_Triple____Run___Strava_and_Photo_-_Google_Photos-300x158.png 300w, http://www.afhill.com/gothedistance/wp-content/uploads/2017/10/Cal-Neva_Marathon__leg_2_of_the_Tahoe_Triple____Run___Strava_and_Photo_-_Google_Photos-768x404.png 768w" sizes="(max-width: 620px) 100vw, 620px" />](http://www.afhill.com/gothedistance/wp-content/uploads/2017/10/Cal-Neva_Marathon__leg_2_of_the_Tahoe_Triple____Run___Strava_and_Photo_-_Google_Photos.png)
+![](/media/2017/10/Cal-Neva_Marathon__leg_2_of_the_Tahoe_Triple____Run___Strava_and_Photo_-_Google_Photos.png)
 
 ## Sunday – Lake Tahoe Marathon
 
@@ -133,13 +133,7 @@ I needed to use the railing to pull myself onto the bus to get to the start. Ruh
 
 Although I felt pretty stiff, the atmosphere in the bus and at the start was electric. People were swapping stories and taking photos. On the first morning I had befriended a couple from France (I had absentmindedly answered a question they'd had in French. They were so excited to meet someone else to talk to!) so they asked to take a photo with me. One of the other Triplers shared his [SportLegs](https://www.amazon.com/Sportlegs-SportLegs-Supplement-Bottle-Capsules/dp/B00YHSAZ74?th=1) with me  – I didn't know you took that stuff before an event!
 
-<div id="attachment_5225" style="width: 630px" class="wp-caption aligncenter">
-  <a href="http://www.afhill.com/gothedistance/wp-content/uploads/2017/10/Wes-4787.jpg"><img aria-describedby="caption-attachment-5225" class="wp-image-5225 size-large" src="http://www.afhill.com/gothedistance/wp-content/uploads/2017/10/Wes-4787-1024x683.jpg" alt="The few, the crazy. The 2017 Tahoe Triplers! " width="620" height="414" srcset="http://www.afhill.com/gothedistance/wp-content/uploads/2017/10/Wes-4787-1024x683.jpg 1024w, http://www.afhill.com/gothedistance/wp-content/uploads/2017/10/Wes-4787-300x200.jpg 300w, http://www.afhill.com/gothedistance/wp-content/uploads/2017/10/Wes-4787-768x512.jpg 768w" sizes="(max-width: 620px) 100vw, 620px" /></a>
-  
-  <p id="caption-attachment-5225" class="wp-caption-text">
-    The few, the crazy. The 2017 Tahoe Triplers!
-  </p>
-</div>
+![The few, the crazy. The 2017 Tahoe Triplers!](/media/2017/10/Wes-4787.jpg)
 
 So, maybe it was the fact I knew I had nothing to prove. Maybe it was my fresh Hokas, or the SportLegs, but the day went overall MUCH better than expected!
 
@@ -147,25 +141,16 @@ Sure, it was slow. And some of those downhills reduced me to a delicate hobble. 
 
 Yes, I came into this race differently than the rest. I had a whole new outfit (Hokas, non-compression socks, lululemon shorts, t-shirt, hat and hand-held water bottle). I decided that if I was running around Lake Tahoe, I was going to take photos and enjoy the scenery!
 
-<div class="RY3tic" data-latest-bg="https://lh3.googleusercontent.com/CLUAuRXV-UbUerr2fBFN305dzdzx6h8bEzUM_AjSKRY3Bd6K5IKehYs_vsDueFsR5AkTUlYUPKnMflzDxHBXdIpy-BeMGCOYkeikU85q_tkVTe_7OQd57_ur6UEeNmQno1ZoDpoTjSl1_WfgbKEVMuMqXRPY2CvH8CIyYrSqUuKcy_FFi0OVL6NUMy9_FKRiO_QRL6fVLLDJ5yM8Q5_J22ZhXUWJxsnRkaVmz_5AmdatX-4XdEjlSztW_fK5aMxvPYs0GK9SSbDTIEBnELN9a8W_1toY3Fukt3acWV3GQtLn4GDzevFJtXPXRe5OChyWNNOk89_N3GibCm1ecZdYbwuDkzPMln_MnZudQkrvtqphYlg-qDczkmj42DgZM9swS-58j6-Uvo4Iq20CqaciYQ5J-ZF1RmUQy3yHX7zvG8wKvCChDc6u823eJqCycypbVGWPKcAOXgoz3Ij3JTh9HxxWm7imJZRJRKOauXaAc2n_gBEPHIzjDdQ6yCJqzfHO8WLnNiaogH0gzdS3f6zSXZ60u1XbMCQZixTrPiUoSbHiBYPKio40tb-ujlpRpZIui87mpYwJRDv4nw3dIoxE7IqQyy5Exz2APVqFElxQ9DE=w309-h232-no">
-   <a href="http://www.afhill.com/gothedistance/wp-content/uploads/2017/10/IMG_20171015_085038.jpg"><img class="aligncenter size-large wp-image-5231" src="http://www.afhill.com/gothedistance/wp-content/uploads/2017/10/IMG_20171015_085038-1024x768.jpg" alt="" width="620" height="465" srcset="http://www.afhill.com/gothedistance/wp-content/uploads/2017/10/IMG_20171015_085038-1024x768.jpg 1024w, http://www.afhill.com/gothedistance/wp-content/uploads/2017/10/IMG_20171015_085038-300x225.jpg 300w, http://www.afhill.com/gothedistance/wp-content/uploads/2017/10/IMG_20171015_085038-768x576.jpg 768w" sizes="(max-width: 620px) 100vw, 620px" /></a>
-</div>
+![](/media/2017/10/IMG_20171015_085038.jpg)
 
-<div data-latest-bg="https://lh3.googleusercontent.com/CLUAuRXV-UbUerr2fBFN305dzdzx6h8bEzUM_AjSKRY3Bd6K5IKehYs_vsDueFsR5AkTUlYUPKnMflzDxHBXdIpy-BeMGCOYkeikU85q_tkVTe_7OQd57_ur6UEeNmQno1ZoDpoTjSl1_WfgbKEVMuMqXRPY2CvH8CIyYrSqUuKcy_FFi0OVL6NUMy9_FKRiO_QRL6fVLLDJ5yM8Q5_J22ZhXUWJxsnRkaVmz_5AmdatX-4XdEjlSztW_fK5aMxvPYs0GK9SSbDTIEBnELN9a8W_1toY3Fukt3acWV3GQtLn4GDzevFJtXPXRe5OChyWNNOk89_N3GibCm1ecZdYbwuDkzPMln_MnZudQkrvtqphYlg-qDczkmj42DgZM9swS-58j6-Uvo4Iq20CqaciYQ5J-ZF1RmUQy3yHX7zvG8wKvCChDc6u823eJqCycypbVGWPKcAOXgoz3Ij3JTh9HxxWm7imJZRJRKOauXaAc2n_gBEPHIzjDdQ6yCJqzfHO8WLnNiaogH0gzdS3f6zSXZ60u1XbMCQZixTrPiUoSbHiBYPKio40tb-ujlpRpZIui87mpYwJRDv4nw3dIoxE7IqQyy5Exz2APVqFElxQ9DE=w309-h232-no">
-  <a href="http://www.afhill.com/gothedistance/wp-content/uploads/2017/10/IMG_20171015_103928-PANO.jpg"><img class="aligncenter size-large wp-image-5229" src="http://www.afhill.com/gothedistance/wp-content/uploads/2017/10/IMG_20171015_103928-PANO-1024x473.jpg" alt="" width="620" height="286" srcset="http://www.afhill.com/gothedistance/wp-content/uploads/2017/10/IMG_20171015_103928-PANO-1024x473.jpg 1024w, http://www.afhill.com/gothedistance/wp-content/uploads/2017/10/IMG_20171015_103928-PANO-300x139.jpg 300w, http://www.afhill.com/gothedistance/wp-content/uploads/2017/10/IMG_20171015_103928-PANO-768x355.jpg 768w" sizes="(max-width: 620px) 100vw, 620px" /></a>
-</div>
+![](/media/2017/10/IMG_20171015_103928-PANO.jpg)
 
 I was pretty sure that because I was the first overall female on Friday and first masters female on Saturday that I'd won the masters division for the Triple, but I wasn't completely sure. I lined up with Christine and her cousin, but we separated pretty quickly. Around mile 4 or so Christine told me she was struggling with some IT band issues, so she was doing a walk-run combo. When they walked I'd pull ahead, but then they'd run by me. I let them go on a large hill, expecting to catch them again. I never did, although it definitely was something I was watching out for.
 
 &nbsp;
 
-<div id="attachment_5230" style="width: 630px" class="wp-caption aligncenter">
-  <a href="http://www.afhill.com/gothedistance/wp-content/uploads/2017/10/IMG_20171015_104931-EFFECTS.jpg"><img aria-describedby="caption-attachment-5230" class="size-large wp-image-5230" src="http://www.afhill.com/gothedistance/wp-content/uploads/2017/10/IMG_20171015_104931-EFFECTS-1024x768.jpg" alt="" width="620" height="465" srcset="http://www.afhill.com/gothedistance/wp-content/uploads/2017/10/IMG_20171015_104931-EFFECTS-1024x768.jpg 1024w, http://www.afhill.com/gothedistance/wp-content/uploads/2017/10/IMG_20171015_104931-EFFECTS-300x225.jpg 300w, http://www.afhill.com/gothedistance/wp-content/uploads/2017/10/IMG_20171015_104931-EFFECTS-768x576.jpg 768w" sizes="(max-width: 620px) 100vw, 620px" /></a>
+![Yes, Google 'adjusted' this image](/media/2017/10/IMG_20171015_104931-EFFECTS.jpg) 
   
-  <p id="caption-attachment-5230" class="wp-caption-text">
-    Yes, Google &#8216;adjusted' this image
-  </p>
-</div>
 
 In all, I was so pleasantly surprised by how much I could run this day. Especially considering how the stairs on the bus felt! The second half of the course was mostly downhill or flat, which helped a lot.
 
@@ -173,37 +158,21 @@ After probably 20 miles of gorgeous views, the last few miles were back through 
 
 Right as I passed by the "4 miles to go" marker (the mile markers in this race count down, not up), I felt something on my left pinky toe. Yes, I'd made it ~74 miles without a blister, but I'd tempted fate not wearing injinji socks this last day. Thankfully, we didn't have too much further to go.
 
-<div id="attachment_5233" style="width: 235px" class="wp-caption alignright">
-  <a href="http://www.afhill.com/gothedistance/wp-content/uploads/2017/10/IMG_20171015_131046.jpg"><img aria-describedby="caption-attachment-5233" class="wp-image-5233 size-medium" src="http://www.afhill.com/gothedistance/wp-content/uploads/2017/10/IMG_20171015_131046-225x300.jpg" alt="" width="225" height="300" srcset="http://www.afhill.com/gothedistance/wp-content/uploads/2017/10/IMG_20171015_131046-225x300.jpg 225w, http://www.afhill.com/gothedistance/wp-content/uploads/2017/10/IMG_20171015_131046-768x1024.jpg 768w" sizes="(max-width: 225px) 100vw, 225px" /></a>
-  
-  <p id="caption-attachment-5233" class="wp-caption-text">
-    A welcome sight!!
-  </p>
-</div>
+![A welcome sight!!](/media/2017/10/IMG_20171015_131046.jpg)
+    
 
 I forget that the average marathon finishing time for women is 4:45. So although this time was slower than I tend to run, there were plenty of folks around me to cheer on and talk with. It had the feel of the last few miles of any marathon: a lot of walkers, just trying to finish. I think I felt pretty good compared to some of them!
 
 I will admit, it felt pretty good to round that last corner and see the finish. I found a final kick and sprinted down the line. Another woman heard me coming and picked it up, so we got the crowd cheering as we tried to outrun each other.
 
-<div id="attachment_5234" style="width: 310px" class="wp-caption aligncenter">
-  <a href="http://www.afhill.com/gothedistance/wp-content/uploads/2017/10/Bill-1989.jpg"><img aria-describedby="caption-attachment-5234" class="size-medium wp-image-5234" src="http://www.afhill.com/gothedistance/wp-content/uploads/2017/10/Bill-1989-300x200.jpg" alt="" width="300" height="200" srcset="http://www.afhill.com/gothedistance/wp-content/uploads/2017/10/Bill-1989-300x200.jpg 300w, http://www.afhill.com/gothedistance/wp-content/uploads/2017/10/Bill-1989-768x512.jpg 768w, http://www.afhill.com/gothedistance/wp-content/uploads/2017/10/Bill-1989-1024x683.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" /></a>
-  
-  <p id="caption-attachment-5234" class="wp-caption-text">
-    Done!
-  </p>
-</div>
+![](/media/2017/10/Bill-1989.jpg)
 
 Sara was waiting at the finish, having completed the Emerald Bay Half Marathon herself. We wandered onto the beach, where I got my finishers trophy for the Triple. We sat down for awhile to relax and wait for awards. It was warm – nice for sitting on the beach, a little warmer than ideal for running. I chatted a bit with other runners. We'd been through a lot together!
 
 Because I'd stopped my watch, I wasn't sure of my exact finishing time, nor place. They weren't posting results and finally around 2pm, the Race Director got on the mic and sheepishly announced that the timing system had crashed around 12:10. He still had the results, but couldn't access them from his laptop. So, no official awards or times could be announced.
 
-<div id="attachment_5235" style="width: 630px" class="wp-caption aligncenter">
-  <a href="http://www.afhill.com/gothedistance/wp-content/uploads/2017/10/Lake_Tahoe_Marathon__leg__3_of_the_Tahoe_Triple___Time_was_actually_4_50_44___Run___Strava.png"><img aria-describedby="caption-attachment-5235" class="wp-image-5235 size-large" src="http://www.afhill.com/gothedistance/wp-content/uploads/2017/10/Lake_Tahoe_Marathon__leg__3_of_the_Tahoe_Triple___Time_was_actually_4_50_44___Run___Strava-1024x543.png" alt="" width="620" height="329" srcset="http://www.afhill.com/gothedistance/wp-content/uploads/2017/10/Lake_Tahoe_Marathon__leg__3_of_the_Tahoe_Triple___Time_was_actually_4_50_44___Run___Strava-1024x543.png 1024w, http://www.afhill.com/gothedistance/wp-content/uploads/2017/10/Lake_Tahoe_Marathon__leg__3_of_the_Tahoe_Triple___Time_was_actually_4_50_44___Run___Strava-300x159.png 300w, http://www.afhill.com/gothedistance/wp-content/uploads/2017/10/Lake_Tahoe_Marathon__leg__3_of_the_Tahoe_Triple___Time_was_actually_4_50_44___Run___Strava-768x407.png 768w" sizes="(max-width: 620px) 100vw, 620px" /></a>
+![You can tell where my watch got messed up (mile 21)](/media/2017/10/Lake_Tahoe_Marathon__leg__3_of_the_Tahoe_Triple___Time_was_actually_4_50_44___Run___Strava.png")
   
-  <p id="caption-attachment-5235" class="wp-caption-text">
-    You can tell where my watch got messed up (mile 21)
-  </p>
-</div>
 
 We SLOWLY walked back to the hotel. My feet had some weird random pains in them, but really nothing as bad as I've felt after faster races.
 
@@ -211,7 +180,7 @@ We headed back to the Vegan cafe to refuel. I called my Mom and I think one of t
 
 ## Summary
 
-[<img class="aligncenter size-large wp-image-5236" src="http://www.afhill.com/gothedistance/wp-content/uploads/2017/10/received_10155759128360912-1024x768.jpeg" alt="" width="620" height="465" srcset="http://www.afhill.com/gothedistance/wp-content/uploads/2017/10/received_10155759128360912-1024x768.jpeg 1024w, http://www.afhill.com/gothedistance/wp-content/uploads/2017/10/received_10155759128360912-300x225.jpeg 300w, http://www.afhill.com/gothedistance/wp-content/uploads/2017/10/received_10155759128360912-768x576.jpeg 768w" sizes="(max-width: 620px) 100vw, 620px" />](http://www.afhill.com/gothedistance/wp-content/uploads/2017/10/received_10155759128360912.jpeg)
+![](/media/2017/10/received_10155759128360912.jpeg)
 
 I did it!
 
@@ -229,12 +198,8 @@ I've now completed 45 marathons. To some extent, the novelty is gone: it's what 
 
 And I got a lot of swag!
 
-[<img class="aligncenter size-large wp-image-5237" src="http://www.afhill.com/gothedistance/wp-content/uploads/2017/10/swag-1024x768.jpg" alt="" width="620" height="465" srcset="http://www.afhill.com/gothedistance/wp-content/uploads/2017/10/swag.jpg 1024w, http://www.afhill.com/gothedistance/wp-content/uploads/2017/10/swag-300x225.jpg 300w, http://www.afhill.com/gothedistance/wp-content/uploads/2017/10/swag-768x576.jpg 768w" sizes="(max-width: 620px) 100vw, 620px" />](http://www.afhill.com/gothedistance/wp-content/uploads/2017/10/swag.jpg)
+![](/media/2017/10/swag.jpg)
 
 Next up? A fun 5K in  couple weeks, then in February Mom and I are going to break that 5 hr mark, darnit! Boston in April, but I don't have anything else on the books (yet). Although I feel pretty good (went for a couple mile run on Wednesday), I'm going to treat myself to a good recovery break.
 
 This has been a great year for me, running-wise. 6 marathons, with 2 1st place finishes.  A huge post-surgery PR. But rather than trying to ride that wave and risk injury, I'm going to slow down for a bit so I can be fresh for next season.
-
-&nbsp;
-
-&nbsp;
