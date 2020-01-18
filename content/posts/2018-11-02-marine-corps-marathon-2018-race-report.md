@@ -36,23 +36,19 @@ I waited for over a half hour for a portapotty at the start, and then sped throu
 
 I knew that Othman from Denver was pacing the 3:45 pace group, and I was toying with running with that group, but I didn't see the group at the start. But I was ok with that, because I really just wanted to feel good running this race. I had been reading Deena Kastor's "Let Your Mind Run" book on the plane, and I really just wanted to feel gratitude and power through this run, rather than weighing myself down with any negative thoughts or worries. As such, I also didn't bring my headphones.
 
-&nbsp;
+
 
 ![](/media/2018/11/Deena_Kastor_on_Twitter___Make_it_a_great_race_…__.png)
 
 Also, HOW FREAKING COOL IS THIS? Deena Kastor wished me a good race??
 
-&nbsp;
 
 I NEVER used to run with headphones, but over the past few years I've started doing it more. I wanted to return to that place of running and being connected with the event and the people around me and my own energy, rather than trying to hide behind it, or "borrow" the energy of the music to propel me forward.
-
-&nbsp;
 
 Ok, ok, so the actual running.
 
 Well, it's a marathon, so do I remember a lot of it.. sorta 🙂
 
-&nbsp;
 
 I remember that there were a LOT of people for the first few miles. It was tough to get into a cadence. That was ok at the start, though, since the first few miles were uphill. It allowed me to run nice and comfortable. It was really nice to not really have a target pace, and just to run as I felt.
 
@@ -97,7 +93,7 @@ We ran through the starting area, which had been so dark three and a half hours 
 
 &nbsp;
 
-![My official finishing time was 3:46:56](/media/uploads/2018/11/Marine_Corps_Marathon___Run___Strava.png)
+![My official finishing time was 3:46:56](/media/2018/11/Marine_Corps_Marathon___Run___Strava.png)
 
 After I got my medal and the thin finishers jacket (not much more substantial than a space blanket), I turned to walk through the athletes area and there was Sara waiting for me. She's really really great at spotting me at finish lines, for which I'm terribly grateful. I was feeling ok, just slow. We got me some water and I picked up my checked bag, where I ran into Othman. He'd brought his group in at 3:44:5x. Pretty perfect!
 

@@ -11,7 +11,7 @@ description: "A screaming fast downhill race"
 ---
 
 
-The afternoon of the [Bolder Boulder](2011-05-30-bolder-boulder-2011-race-report/), I started researching local races. I read about the [Slacker Half Marathon](http://www.slackerhalfmarathon.com), and then a few days later a Groupon deal came out lowering the price to only $25. I jumped at it! 
+The afternoon of the [Bolder Boulder](/posts/2011-05-30-bolder-boulder-2011-race-report/), I started researching local races. I read about the [Slacker Half Marathon](http://www.slackerhalfmarathon.com), and then a few days later a Groupon deal came out lowering the price to only $25. I jumped at it! 
 
 I've been running, but nothing too targeted for the distance. Yesterday I actually didn't even fuel very well: I had a dirty chai, frozen yogurt and a beer! (in addition to healthier options). I didn't really have a great goal going into the race, roughly my plan was "run by feel, ideally sub-8s". 
 

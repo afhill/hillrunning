@@ -15,7 +15,7 @@ description: "Beating a turkey and running a personal record in the desert"
 
 When I decided to come visit my parents in Arizona for Thanksgiving, I immediately asked Mom if she wanted to participate in a Turkey Trot. Of course she did 🙂 So we registered for the [Mesa 10K](http://www.active.com/running/mesa-az/mesa-turkey-trot-2011).
 
-I've known for awhile my 10K PR is soft – I ran 45:16 at the [2011 BolderBoulder](2011-05-30-bolder-boulder-2011-race-report/), but I was actually faster in the [Rock and Roll Denver Half Marathon](2011-10-10-rock-and-roll-denver-half-marathon-race-report/) in October. 
+I've known for awhile my 10K PR is soft – I ran 45:16 at the [2011 BolderBoulder](/posts/2011-05-30-bolder-boulder-2011-race-report/), but I was actually faster in the [Rock and Roll Denver Half Marathon](/posts/2011-10-10-rock-and-roll-denver-half-marathon-race-report/) in October. 
 
 Obviously, my training has been going well and I'm feeling strong. Leading up to this race I had a few goals in mind. First, one of the qualifying standards for the Running Republic training group is a sub-43 10K. I decided I wanted to meet the qualification time at this distance as well. My more lofty goal was a 6:45 pace, which is just shy of 42 minutes. I honestly never even considered a &#8216;safe' goal like "a PR". 
 

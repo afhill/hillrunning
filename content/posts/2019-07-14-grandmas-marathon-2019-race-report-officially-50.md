@@ -53,7 +53,7 @@ Overall I felt pretty good throughout, though I will admit it took a bit more ef
 
 We'd been pretty lucky wind-wise throughout (given it's a point-to-point course, that can really make or break a race!), until we got to the final few turns right in Duluth. I made one turn and felt as though I'd run into a wall, the wind was so strong. Ugh! I'd been pretty good at chugging along, only stopping to walk briefly over one hill, but I definitely walked at the very end.&nbsp;
 
-As I said, I didn't have a time goal for this race. I wanted to feel good throughout. Based on my (5K) splits, I'd say I achieved that!<figure class="wp-block-image">
+As I said, I didn't have a time goal for this race. I wanted to feel good throughout. Based on my (5K) splits, I'd say I achieved that!
 
 ![Pretty even splits throughout!](/media/2019/07/Screen-Shot-2019-07-13-at-6.48.15-AM.png)
 
@@ -70,7 +70,8 @@ Yes, so that's
 
 In the end, I rolled in at 3:50:40, or an 8:48 pace. 15 minutes faster than the marathon I ran 4 weeks prior! I'll take it! 
 
-Sara and I met up at the end (she is SO GOOD at finding me after races!!), and waited around to meet up with Andrea and her friends. We chatted for a bit before we all split up to grab a snack and clean up before the evening events: we had tickets on the [Pizza Train](https://duluthtrains.com/daily-excursions/#pizza)! This was a great way for us to relax and chat after the race. There were about 11 of us; marathoners, half-marathoners, spouses and an 8 year old. Ya know, sitting on a scenic train for a couple hours (especially one that provides pizza and sells beer) is a pretty great idea after a race! <figure class="wp-block-image">
+Sara and I met up at the end (she is SO GOOD at finding me after races!!), and waited around to meet up with Andrea and her friends. We chatted for a bit before we all split up to grab a snack and clean up before the evening events: we had tickets on the [Pizza Train](https://duluthtrains.com/daily-excursions/#pizza)! This was a great way for us to relax and chat after the race. There were about 11 of us; marathoners, half-marathoners, spouses and an 8 year old. Ya know, sitting on a scenic train for a couple hours (especially one that provides pizza and sells beer) is a pretty great idea after a race! 
+
 
 ![Sara, me, and Andrea on the North Shore Scenic Railroad Pizza Train after Grandma's Marathon](/media/2019/07/MVIMG_20190622_183459.jpg)
 

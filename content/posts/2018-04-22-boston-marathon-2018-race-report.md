@@ -8,7 +8,7 @@ tags:
   - "Race reports"
   - "Marathon"
 description: "A wet, windy day on a historic course"
-socialImage: "/media/2018/04/BeforetheRace.png "
+socialImage: "/media/2018/04/BeforetheRace.png"
 ---
 
 
@@ -16,9 +16,9 @@ socialImage: "/media/2018/04/BeforetheRace.png "
 
 Hard to believe it's been nearly a decade since I last ran the Boston marathon. But last year when Meredith mentioned that the race date fell on her 40th birthday, it seemed as good a reason as ever to make the pilgrimmage back to this marathoner's mecca.
 
-I qualified at the [Jack and Jill race](/2017-08-02-jack-and-jill-downhill-marathon-2017-race-report/) last July, with a nice big buffer for my age group (the joy of aging up?!?).
+I qualified at the [Jack and Jill race](/posts/2017-08-02-jack-and-jill-downhill-marathon-2017-race-report/) last July, with a nice big buffer for my age group (the joy of aging up?!?).
 
-Training for Boston was &#8230; negligible. The [Tahoe Triple](/2017-10-20-tahoe-triple-race-report-bucket-list-item-complete/) took a lot out of me last October, and then my training never really got back on track as Sara and I made plans and moved up to Canada in early 2018. I've struggled with a lot of knee pain, specifically, and there was a TON of snow up here when we got here! Sure, I managed a nice [26.2 long run](/2018-02-28-mesa-phx-marathon-2018-race-report/) with my Mom in AZ in February, but apart from that I don't think I'd run over 12 miles since October!
+Training for Boston was &#8230; negligible. The [Tahoe Triple](/posts/2017-10-20-tahoe-triple-race-report-bucket-list-item-complete/) took a lot out of me last October, and then my training never really got back on track as Sara and I made plans and moved up to Canada in early 2018. I've struggled with a lot of knee pain, specifically, and there was a TON of snow up here when we got here! Sure, I managed a nice [26.2 long run](/posts/2018-02-28-mesa-phx-marathon-2018-race-report/) with my Mom in AZ in February, but apart from that I don't think I'd run over 12 miles since October!
 
 Thankfully, a few weeks ago I started to go to a chiropractor here and it has seriously changed my life!  My posture is better and he has even done some work to correct my weird inward-facing left foot, as well as work on the popliteus muscle behind my knees. Knee pain is gone!
 
@@ -28,7 +28,7 @@ Still, if I can do three marathons in three days at altitude in Tahoe, I knew I 
 
 This sentiment was even more appreciated as the weather forecast came up: 20-30mph winds and rain. Yuck! I declared on facebook that I was expecting that to slow me down a good 15 minutes.
 
-![](/img/2018/04/Andrea_F_Hill.png)
+![](/media/2018/04/Andrea_F_Hill.png)
 
 &nbsp;
 
@@ -87,7 +87,7 @@ So whether or not it was a great choice, I had been listening to an audiobook ab
 
 &nbsp;
 
-I apparently also stopped my watch at this time. [Amateur]. But that just meant I didn't have anything to try to do mental math off of. Which was ok with me!
+I apparently also stopped my watch at this time. *Amateur!*. But that just meant I didn't have anything to try to do mental math off of. Which was ok with me!
 
 M15: 14:52  
 M16: 9:45
