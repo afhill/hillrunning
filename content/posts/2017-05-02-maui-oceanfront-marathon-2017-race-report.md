@@ -20,7 +20,7 @@ We decided on the Maui Oceanfront Marathon, which had an associated half maratho
 
 Even in January, Hawaii is hot and humid. The race started at 5am, which meant a 3:15am bus pickup. I knew it would be hot, so I only wore a sportsbra and shorts and lathered on sunscreen. We would start in the pitch-black dark, and I used/carried my knuckle lights until mile 14!
 
-![](/img/2017/08/Photo_in_Trip_to_Hawaii_-_Google_Photos.jpg)
+![](/media/2017/08/Photo_in_Trip_to_Hawaii_-_Google_Photos.jpg)
 
 &nbsp;
 
@@ -30,7 +30,7 @@ There was a bit of concern that there wasn't going to be any electrolyte-replace
 
 I had trained pretty well for the race, although there was also the matter of training over the holidays, wedding planning, some insecurity around my work, AND the fact my father underwent heart surgery a few days before our trip. With all that in mind, I took pressure off myself completely and told myself to focus on being grateful for the ability to run, and not expect anything more from the day.
 
-![](img/2017/08/1__Andrea_F_Hill-2.jpg)
+![](media/2017/08/1__Andrea_F_Hill-2.jpg)
 
 &nbsp;
 
@@ -38,7 +38,7 @@ Ha, and I was glad I did! The humidity was insane; despite the fact it was well 
 
 I started out aggressively, but knew pretty quickly that this wasn't going to be my day. Which was fine. I had my camera, my Spotify playlist was mostly 90s tunes, and I was hoping to spot some whales!
 
-![](/img/2017/08/Photo_in_Trip_to_Hawaii_-_Google_Photos-1.jpg)
+![](/media/2017/08/Photo_in_Trip_to_Hawaii_-_Google_Photos-1.jpg)
 
 The course ran along the highway, but it wasn't too crowded with either people or vehicles until close to the end. There were fantastic aid stations (I think they were vying for some sort of charity award or something).  It was a long run that just gave me time to reflect.
 
@@ -48,7 +48,7 @@ The run took longer than expected, and it was hot, and hard. But it was pretty t
 
 I can't imagine there are many &#8216;easy' marathons in Hawaii; we met some folks in Kauai the following week who had run a race that was 16 laps of a 1.64 mile loop through a park. Oof! So this one at least was pretty!
 
-![](/img/2017/08/Maui_Oceanfront_Marathon___Run___Strava-1.jpg)
+![](/media/2017/08/Maui_Oceanfront_Marathon___Run___Strava-1.jpg)
 
 &nbsp;
 

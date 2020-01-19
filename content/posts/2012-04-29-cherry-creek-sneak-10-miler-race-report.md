@@ -11,13 +11,13 @@ socialImage: "/media/2012/04/ccs_logo1.png"
 ---
 
 
-![](/media/2012/04/ccs_logo.png)Today was the Cherry Creek Sneak 10 Miler. I&#8217;d won free entry a few weeks ago, although with [my calf injury](/posts/2012-04-dont-have-a-cow/) last week I wasn&#8217;t sure how well it would go.
+![](/media/2012/04/ccs_logo.png)Today was the Cherry Creek Sneak 10 Miler. I'd won free entry a few weeks ago, although with [my calf injury](/posts/2012-04-dont-have-a-cow/) last week I wasn't sure how well it would go.
 
 Secretly, I wanted to run 1:08:00 (6:51mm) to get into that elusive AA corral at the Bolder Boulder. More practically, anything faster than 1:25 (8:32mm) would be a PR. I had chased a 6:51mm at the [Platte River Half](/posts/2012-04-platte-river-half-race-report/) a few weeks prior, so that number was taunting me. Could I do it?
 
-I know I didn&#8217;t really approach this like an A race, because I think I knew that I had to be smart. If my calf hurt, I was going to have to be smart about it. Yesterday I did a few things wrong: crossfit (including jumping lunges), frozen yogurt and red wine. I actually said to someone the other day &#8220;IF I finished the race&#8221;. Yeah, my head and my heart weren&#8217;t 100% in it.
+I know I didn't really approach this like an A race, because I think I knew that I had to be smart. If my calf hurt, I was going to have to be smart about it. Yesterday I did a few things wrong: crossfit (including jumping lunges), frozen yogurt and red wine. I actually said to someone the other day &#8220;IF I finished the race&#8221;. Yeah, my head and my heart weren't 100% in it.
 
-The weather was great, a bit brisk at the start but it warmed up to perfect as the race went on. I did my best not to get too caught up in placement and just tried to run my race. Still, I&#8217;m struggling with nailing the pace I want to settle in, and I&#8217;m not sure it&#8217;s not coming back to bite me.
+The weather was great, a bit brisk at the start but it warmed up to perfect as the race went on. I did my best not to get too caught up in placement and just tried to run my race. Still, I'm struggling with nailing the pace I want to settle in, and I'm not sure it's not coming back to bite me.
 
 M1: 6:39 &#8211; a little fast, but not near as bad as the Platte River Half  
 M2: 6:47 &#8211; closer, good!  
@@ -30,7 +30,7 @@ I decided to try to power up this hill too. BAD MOVE.
 
 M5: 7:24. Yup, I took a little walk break. And had a couple more ladies pass me..
 
-It wasn&#8217;t that the wheels fell off per se, but they just didnt want to turn as much. Yes, with that one tough fight up the hill, I felt like I just bonked. So, I told myself I just wanted to try to stay under 7mm for the rest. Just get it done. 
+It wasn't that the wheels fell off per se, but they just didnt want to turn as much. Yes, with that one tough fight up the hill, I felt like I just bonked. So, I told myself I just wanted to try to stay under 7mm for the rest. Just get it done. 
 
 M6: 6:58  
 M7: 7:08 (not sure what happened here). Around this point I made my revised goal 1:10 (7mm average)  
@@ -45,11 +45,11 @@ and then according to my watch, there was another 500ft which I ran at an 6:08 p
 
 Overall: 1:10:06 Official
 
-Honestly, I know 1:10 is a decent time, especially since I didn&#8217;t run at all on Wed and Thurs this week due to injury. But I&#8217;m starting to see a pattern I don&#8217;t like in these races: aim for 6:51. Do a few miles at 6:45, then die and just try to hold on. 
+Honestly, I know 1:10 is a decent time, especially since I didn't run at all on Wed and Thurs this week due to injury. But I'm starting to see a pattern I don't like in these races: aim for 6:51. Do a few miles at 6:45, then die and just try to hold on. 
 
-I don&#8217;t know if it&#8217;s partially nutrition. I&#8217;ve cut out glutenous bread over the past few weeks, maybe I AM bonking because of that. Because I feel like I SHOULD be able to sustain the paces I&#8217;m going out at. I do think that I am going to try to do some more sustained tempo work at around a 6:55mm and just see how comfortable I can make that. Or, the past few weeks my crossfit workouts have included squats or deadlifts and maybe my legs just could use more recovery? I just know that I&#8217;m not really content with my running right now and I want to fix it and get back to loving my sport. 
+I don't know if it's partially nutrition. I've cut out glutenous bread over the past few weeks, maybe I AM bonking because of that. Because I feel like I SHOULD be able to sustain the paces I'm going out at. I do think that I am going to try to do some more sustained tempo work at around a 6:55mm and just see how comfortable I can make that. Or, the past few weeks my crossfit workouts have included squats or deadlifts and maybe my legs just could use more recovery? I just know that I'm not really content with my running right now and I want to fix it and get back to loving my sport. 
 
-Apart from that, the day was great! I met with Courtney and Luke before the race, and we also hung out for a bit after. Then I went to Pura Vida and rolled out on their foam rollers, and eventually headed over to Heather Alvaredo&#8217;s house for a post-sneak party. They had some masseuses there who worked my hips over something great! (My hips were fine during the event, but they can always use work). It was fun to chat with some other runners as well. I was reflecting on how many runners I&#8217;ve gotten to know here in town (this was the third of three runner parties I was invited to by different groups this weekend). It&#8217;s pretty amazing to know so many (crazy?) like-minded people! 
+Apart from that, the day was great! I met with Courtney and Luke before the race, and we also hung out for a bit after. Then I went to Pura Vida and rolled out on their foam rollers, and eventually headed over to Heather Alvaredo's house for a post-sneak party. They had some masseuses there who worked my hips over something great! (My hips were fine during the event, but they can always use work). It was fun to chat with some other runners as well. I was reflecting on how many runners I've gotten to know here in town (this was the third of three runner parties I was invited to by different groups this weekend). It's pretty amazing to know so many (crazy?) like-minded people! 
 
 Oh and P.S. if anyone tries to tell you this course is flat, they lie:
 

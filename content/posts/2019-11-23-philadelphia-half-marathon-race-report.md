@@ -7,7 +7,6 @@ category: "Half marathon"
 tags:
   - "Race reports"
   - "Half marathon"
-description: "Running with my Mom to her first sub-5 hour marathon"
 socialImage: "/media/2019/11/2019-11-23-phillymedal.png"
 ---
 
