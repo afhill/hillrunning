@@ -1,7 +1,7 @@
 ---
 template: "post"
 title: "New York City Marathon 2014 Race Report"
-date: 22014-11-05T20:17:27-06:00
+date: 2014-11-05T20:17:27-06:00
 draft: false
 category: "Marathon"
 tags:
@@ -21,7 +21,8 @@ The few days in the city were fun: it was cool to go to the expo and chat with o
 
 Elyssa and I went out for dinner in West Village Friday night: it was Halloween and we wanted to see the costumes. But it was a pretty laidback night. She understands the importance of a relaxing marathon weekend. On Saturday we mostly just lazed around the apartment; I finished reading &#8220;A Race Like No Other&#8221; but we did go to the gym so I could run 2.62 miles on the treadmill.We had GF pasta and sauteed spinach at home for dinner with some red wine, and then it was time to hit the hay!
 
-![](/media/2014/11/New-York-City-Marathon-Pace-Band.png)I wore compression tights, injinji socks, my hokas, and the same long sleeved green shirt and RnRDenver shirt I wore for the half a few weeks ago. I also borrowed a really tight windbreaker from Erin. I had my Flipbelt for my phone, two gels, my phone, advil and lipbalm. I'd made a playlist but hadnt really spent any time to figure out at what time different songs would play. But some of it worked out just perfectly!
+![](/media/2014/11/New-York-City-Marathon-Pace-Band.png)
+I wore compression tights, injinji socks, my hokas, and the same long sleeved green shirt and RnRDenver shirt I wore for the half a few weeks ago. I also borrowed a really tight windbreaker from Erin. I had my Flipbelt for my phone, two gels, my phone, advil and lipbalm. I'd made a playlist but hadnt really spent any time to figure out at what time different songs would play. But some of it worked out just perfectly!
 
 I woke up to the wind absolutely howling, and an email from the NYRR saying that due to high winds, they wouldn't be putting up as much shelter as normal over in Staten Island. Brrrr!  
 Staying in Brooklyn was pretty awesome; after my breakfast of gf toast and justins choc/pb spread, I left her place at 6:03 to grab the 6:08 train. I was at the ferry terminal around 6:20 and over in Staten Island shortly after 7. At the Village I wandered a bit in my fancy goodwill-purchased warmup clothes before heading into my corral (Orange, 1-B) around 8:30. Actually, before I did that I did some dynamic warmup and tried to stretch my hips out. 

@@ -1,19 +1,4 @@
 ---
-id: 5110
-title: Marathon du Medoc 2016 Race Report
-date: 2016-09-16T06:41:40-06:00
-author: Andrea Hill
-layout: post
-guid: http://www.afhill.com/gothedistance/?p=5110
-permalink: /2016/09/marathon-du-medoc-2016-race-report/
-image: /wp-content/uploads/2016/09/IMG_0268-e1474293407911.jpg
-categories:
-  - Race Reports
-tags:
-  - featured
----
-
----
 template: "post"
 title: "Marathon du Medoc 2016 Race Report"
 date: 2016-09-16T06:41:40-06:00

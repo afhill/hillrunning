@@ -1,7 +1,7 @@
 ---
 template: "post"
 title: "Bourbon Chase Relay Race Report"
-date: 22010-10-28T22:07:39-06:00
+date: 2010-10-28T22:07:39-06:00
 draft: false
 category: "Relay race"
 tags:
@@ -24,7 +24,7 @@ In a relay, runners and vans are competing against each other in a variety of wa
 
 Our first leg started at 3pm. I struggled with mine: going out too fast (a 7:17 first mile? Whoops&#8230;) and then dealing with hot temperatures and too much Gatorade in my stomach. The true demoralizer was a huge hill in the last mile. I felt pretty anxious that I wasn't prepared for this, and actually apologized to my team as I came in. So I was really happy to see this was rated a difficult leg, and I'd still better my projected time. And- the rest of my legs were rated easy! Roadkill: 0-2 (I didn't pass anyone, 2 people passed me)
 
-![]<(/media/2010/10/elevation-1.gif)
+![](/media/2010/10/elevation-1.gif)
 
 Our team did well, with the first five of us all finishing a minute ahead of our predicted time.
 
