@@ -17,7 +17,7 @@ The first mention I can find on this blog of the Tahoe Triple was from December 
 
 I turned 40 this year, and determined that whole "I'm not getting any younger " thing was true. So in February I signed up for this extreme race: **[3 marathons over 3 days around Lake Tahoe](http://www.laketahoemarathon.com/triple)**.
 
-![](/media/2017/10/tahoetriple-e1508498272216.jpg)
+![](/media/2017/10/tahoetriple.jpg)
 
 Doing back-to-back events wasn't completely foreign to me: I completed the Goofy Challenge in Florida and had [doubled at Pikes Peak](/2011-08-pikes-peak-marathon-2011-race-report-d-d-d-d-doubler/) a few times. But never this distance, and never into a third day.
 
